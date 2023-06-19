@@ -54,7 +54,5 @@ This specification is currently a placeholder. Please refer to the `High Level S
 
 {backmatter}
 
-<reference anchor="CDRPLUS-INFOSEC-BASELINE" target="https://cdrplus.github.io/cdrplus-infosec-baseline/draft-cdrplus-infosec-baseline.html"> <front><title>CDR+ Security Profile: Baseline</title><author initials="S." surname="Low" fullname="Stuart Low"><organization>Biza.io</organization></author></front> </reference>
-
 <reference anchor="CDS" target="https://consumerdatastandardsaustralia.github.io/standards"><front><title>Consumer Data Standards (CDS)</title><author><organization>Data Standards Body (Treasury)</organization></author></front> </reference>
 
