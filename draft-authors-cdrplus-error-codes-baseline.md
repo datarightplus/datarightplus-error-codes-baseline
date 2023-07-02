@@ -1,11 +1,11 @@
 %%%
-Title = "CDR Plus: Enhanced Errors"
+Title = "CDR+ Error Codes: Baseline"
 area = "Internet"
 workgroup = "cdrplus-parity"
 
 [seriesInfo]
 name = "Internet-Draft"
-value = "draft-authors-cdrplus-enhanced-errors-latest"
+value = "draft-authors-cdrplus-error-codes-baseline-latest"
 stream = "IETF"
 status = "experimental"
 
