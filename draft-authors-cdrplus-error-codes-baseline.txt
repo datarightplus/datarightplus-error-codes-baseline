@@ -5,11 +5,11 @@
 cdrplus-parity                                                    S. Low
 Internet-Draft                                                 B. Kolera
 Intended status: Experimental                                    Biza.io
-Expires: 21 December 2023                                   19 June 2023
+Expires: 3 January 2024                                      2 July 2023
 
 
-                       CDR Plus: Enhanced Errors
-              draft-authors-cdrplus-enhanced-errors-latest
+                       CDR+ Error Codes: Baseline
+           draft-authors-cdrplus-error-codes-baseline-latest
 
 Abstract
 
@@ -37,7 +37,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 21 December 2023.
+   This Internet-Draft will expire on 3 January 2024.
 
 Copyright Notice
 
